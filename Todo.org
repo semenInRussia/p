@@ -1,9 +1,7 @@
-Todo list for project named ~p~:
+Todo list for the project named ~p~:
 
-
-* TODO Makefile viewing dependecies before compilation
+* DONE Makefile viewing dependecies before compilation
 * TODO Add able to ~p~: print fiile at URL
-
 * DONE Fix the command-line tool ~pf~
 * TODO Add able to change printer in ~p~ commands
 * TODO Make shell command ~p~: printing some files within one shell command
