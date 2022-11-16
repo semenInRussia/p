@@ -2,6 +2,11 @@ Todo list for the project named ~p~:
 
 * DONE Makefile viewing dependecies before compilation
 * TODO Print files at an URL
+[[https://www.monolune.com/articles/how-to-download-files-using-racket/][tutorial to download a file from the internet]]
+* TODO Make REDME.md
 * DONE Fix the command-line tool ~pf~
 * TODO Add able to the printer change
 * TODO Printing some files within one shell command
+* TODO Print non-pdf file (using ~pandoc~)
+* TODO Reorgonize some CLI programs to one, where ~pj~, ~pf~, ~p~ and ~pp~ are aliases
+* TODO For print special file parse a ~toml~ file
